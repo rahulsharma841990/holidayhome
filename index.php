@@ -113,7 +113,7 @@
                     <!-- Banner Slider Inner 1 -->
                     <div class="banner-slider-inner">
                         <!-- Titel-->
-                        <h1><span>Welcome to</span> Hotel Empire</h1>
+                        <h1><span>Welcome to</span> Holiday Hotel</h1>
                         <!-- Paragraph -->
                         <p>Our 68 rooms and suites are wonderfully comfortable with a sleek décor.</p>
                         <!-- Btn -->
