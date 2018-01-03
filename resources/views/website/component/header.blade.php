@@ -1,7 +1,7 @@
 <header class="main-header">
     <div class="container">
         <nav class="navbar navbar-default">
-            <div class="navbar-header">
+            <div class="navbar-header" style="width: 32%;">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
@@ -11,7 +11,11 @@
                 <a href="index.html" class="logo">
                     <img src="img/logo.png">
                 </a>
+                <div>
+                    <b>Contact: +91-9780078800</b>
+                </div>
             </div>
+            
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
