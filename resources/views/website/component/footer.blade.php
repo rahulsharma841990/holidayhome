@@ -46,7 +46,7 @@
                 </div>
             </div>
             
-            <div class="col-md-3 col-sm-6 footer-item clearfix">
+            <!-- <div class="col-md-3 col-sm-6 footer-item clearfix">
                 <div class="footer-item-content">
                     <h2>Recent Rooms</h2>
                     
@@ -87,7 +87,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <div class="col-md-3 col-sm-6 footer-item clearfix">
                 <div class="footer-item-content">
