@@ -12,7 +12,7 @@
                     <img src="img/logo.png">
                 </a>
                 <div>
-                    <b>Contact: +91-9780078800</b>
+                    <b>Contact: +91-8968001447</b>
                 </div>
             </div>
             
