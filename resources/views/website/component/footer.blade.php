@@ -24,6 +24,7 @@
                             </a>
                         </li>
                     </ul>
+                    
                     <!-- Social List-->
                     <div class="social-list clearfix">
                         <a href="javascript:;" class="bg-facebook">
